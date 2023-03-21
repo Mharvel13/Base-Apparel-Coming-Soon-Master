@@ -35,9 +35,9 @@ Users should be able to:
 
 ### Links
 
--   Frontend Mentor Solution URL: [Frontend Mentor Solution Page](https://www.frontendmentor.io/solutions/)
--   Live Site URL: [Live Hosted Website](https://mharvel13.github.io/)
--   Github Solution URL: [Github Hosted Codes](https://github.com/Mharvel13/)
+-   Frontend Mentor Solution URL: [Frontend Mentor Solution Page](https://www.frontendmentor.io/solutions/base-apparel-coming-soon-page-solution-cKV0Mz3dKJ)
+-   Live Site URL: [Live Hosted Website](https://mharvel13.github.io/Base-Apparel-Coming-Soon-Master/)
+-   Github Solution URL: [Github Hosted Codes](https://github.com/Mharvel13/Base-Apparel-Coming-Soon-Master)
 
 ## My process
 
